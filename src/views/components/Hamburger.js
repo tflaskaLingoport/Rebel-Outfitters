@@ -46,12 +46,12 @@ let Hamburger = {
                 <label for="locale"><h3>${localeLabel}</h3></label>
                 <select id="locale" class="hamDrop">
                     <option value="en-US">${localeEN}</option>
-                    <option value="de-DE">${localeDE}</option>
-                    <option value="es-SP">${localeES}</option>
+                    <option value="zh-CN">${localeZH}</option>
                     <option value="fr-FR">${localeFR}</option>
+                    <option value="de-DE">${localeDE}</option>
                     <option value="ja-JP">${localeJA}</option>
                     <option value="no-NO">${localeNO}</option>
-                    <option value="zh-CN">${localeZH}</option>
+                    <option value="es-SP">${localeES}</option>                   
                     <option value="eo">${localeEO}</option>
                     <option value="ia">${localeIA}</option>
                 </select>
