@@ -4,7 +4,7 @@ import i18n from '../../services/i18n.js';
 
 import { Order } from "../classes/Order.js";
 
-//TODO: add click listeners for updating qty or deleting items from cart
+//TODO: add click listeners for updating qty or deleting items from cart!
 
 var total;
 
