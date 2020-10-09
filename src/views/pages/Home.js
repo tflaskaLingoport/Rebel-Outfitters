@@ -7,7 +7,7 @@ let Home = {
         let welcomeMessage = i18n.getString("Home", "welcomeMessage");
         let welcomeSubtitle = i18n.getString("Home", "welcomeSubtitle");
 
-        //view is solely for HTML markup, contains no static text
+        //view is solely for HTML markup, contains no static text Only add stuff here
         let view = `
                     <section class="welcome">
                         <h1 class="center">${welcomeMessage}</h1>
